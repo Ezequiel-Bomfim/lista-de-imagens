@@ -1,0 +1,15 @@
+@media(max-width: 1425px){
+    .container{
+        min-height: 1817px;
+    }
+
+    .lista-images{
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .lista-images li {
+        height: 435px;
+    }
+}
